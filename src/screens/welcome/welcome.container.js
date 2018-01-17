@@ -1,13 +1,10 @@
 /* @flow */
 import * as React from 'react';
 import { View, Text } from 'react-native';
+import { compose, renderComponent, hoistStatics } from 'recompose';
 
-export class WelcomeContainer extends React.Component<any, any> {
-  render() {
-    return (
-      <View>
-        <Text>Hello!</Text>
-      </View>
-    );
-  }
-}
+import { WelcomeComponent } from './welcome.component';
+import type { Component } from 'react';
+
+
+export const WelcomeContainer = compose(hoistStatics)(WelcomeComponent);

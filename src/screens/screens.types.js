@@ -1,10 +1,10 @@
 /* @flow */
-import type { Component } from 'react';
+import * as React from 'react';
 
 export type Screen = {
   screen: string,
   title: string,
-  component: Class<Component<any, any>>,
+  component: Class<React.Component<any, any>> | React.Component<any, any> | React.ComponentClass<any>,
   navigatorStyle: {},
   navigatorButtons: {},
 };
