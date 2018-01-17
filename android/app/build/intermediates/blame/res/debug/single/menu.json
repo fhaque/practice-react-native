@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/practicereactnative/react-native-navigation/unspecified/res/menu/stub.xml"
+    },
+    {
+        "merged": "/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/practicereactnative/react-native-navigation/unspecified/res/menu/search_item.xml"
+    }
+]

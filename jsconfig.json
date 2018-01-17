@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+      "target": "es2017",
+      "checkJs": true,
+      "module": "commonjs",
+      "jsx":"react-native",
+      "allowSyntheticDefaultImports": true,
+      "baseUrl": ".",
+      "paths": {
+        "*": ["./src/*"]
+      }
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
