@@ -25,6 +25,7 @@
     "react-redux": "^5.0.6",
     "recompose": "^0.26.0",
     "redux": "^3.7.2",
+    "redux-form": "^7.2.1",
     "reselect": "^3.0.1"
   }
 }

@@ -2,8 +2,13 @@
 import * as React from 'react';
 import { View, Text } from 'react-native';
 
-export const UserFormComponent = () => (
+import { FormContainer, FormTextInputContainer } from './components'
+
+export const UserFormComponent = (): React.Node  => (
   <View>
-    <Text>User Form</Text>
+    <FormContainer>
+      <Text>User Form</Text>
+      <FormTextInputContainer name="name" />
+    </FormContainer>
   </View>
 );
