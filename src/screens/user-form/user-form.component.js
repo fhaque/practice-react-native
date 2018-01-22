@@ -1,49 +1,41 @@
 /* @flow */
 import * as React from 'react';
+import { connect } from 'react-redux';
 import { View, Text, TextInput, Button } from 'react-native';
+import { LocalForm } from 'react-redux-form';
+import { Control } from 'react-redux-form/native';
 
-import { withFormik, Field } from 'formik';
 
-const FormikTextInput = (props) => {
-  const { onChangeText, name, ...otherProps } = props;
-  return (
-    <TextInput 
-      onChangeText={(text: string) => props.onChangeText(props.name, text)}
-      {...otherProps} 
-    />
-  );
-};
+const ConnectedButton = connect()(Button);
 
-const InnerForm = ({
-  values,
-  errors,
-  touched,
-  handleChanged,
-  handleBlur,
-  handleSubmit,
-  isSubmitting,
-  setFieldValue,
-}) => (
-  <View>
-    <FormikTextInput 
-      name="username"
-      onChangeText={setFieldValue}
-    />
-    <Field name="email" render={(renderProps) => {console.log("Field Props", renderProps); return <TextInput />} } />
-    <Field render={() => <Button title="Submit" onPress={handleSubmit}/>} />
-    {/* <Button title="Submit" onPress={handleSubmit} /> */}
-  </View>
-);
-
-const FormContainer = withFormik({
-  handleSubmit(values, formikBag) {
-    console.log("Form Submit:", values, formikBag);
+class WrappedLocalForm extends React.Component {
+  handleSubmit(values) {
+    console.log("Form Submit: ", values);
   }
-})(InnerForm);
+  handleUpdate(form) {
+    console.log("Form Update: ", form);
+  }
+  handleChange(values) {
+    console.log("Form Change: ", values);
+  }
+
+  render() {
+    return (
+      <LocalForm
+        model="user"
+        onUpdate={(form) => this.handleUpdate(form)}
+        onChange={(values) => this.handleChange(values)}
+        onSubmit={(values) => this.handleSubmit(values)}
+      >
+        <Control.TextInput model="user.name" />
+        
+      </LocalForm>
+    );
+  }
+}
 
 export const UserFormComponent = (): React.Node  => (
   <View>
     <Text>User Form</Text>
-    <FormContainer />
   </View>
 );
