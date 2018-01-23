@@ -3,318 +3,318 @@
 
     <item
         is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_d93396bf2b410d08852a9369a6fc991323609651.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_b4dac261b544134e8a8b56a817c1656e16062e6a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jar="/Users/fhaque/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_aa45fad63a185091322e5f38ab928dc36110bfc9.jar" />
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_7295d2d40cddb4165a6001f0f95e9c26ed039e0d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_646359685ee39d4ee5b4d2091a0e1bdcad8cf782.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_2710356cf70fb94a77aa77a07ef97cbd24fa5891.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_0b3b3921c53958a3b91b64d17aed48c6b33ce736.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_40f66608c5d998f46ae21fb212c93b48d45c339e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_461dd53e0c7d19d9a2b946eaceea432b71080af8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_f3bf2088b8ef5089ac9444cbaa5471a9dc1e36ec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a7ad869bbec0977c3b5557572cd3ea7882bb6545.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_b171b5c6f8ae8dc63b85a9cc8ba5704cbb35bc1c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_64ea0cd76e6aee0bdd3dee406018b1f89c0ee7c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_19cc5818a461c94035bdeace5436b0b24992de5d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_75bc0a23afbab274888f73aec3f9f795c5fb8050.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_98dddf68c581d1226f6471646e21d93444e27780.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_754b1d50e2835637a3df5ff363c9075a86094a3d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_647fa2b40f89fb5f12e5d1e5b2b92fd7a227a8f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_9b8c634bb9d445e734fef74269782c8887eb8551.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_86d2fe87ee64990d103c352f85cd24157914aa79.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_984dc4567b103004a1105e337320332d9b9f1dcc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f5be9de0e6f3f2c3487164422191850dbc3678fd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_56af1d944290e1fd98e9a5245a9276a6a298a3f7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_1774bf9f08bf7ada676b3dda9608b00fa0f36c15.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3435718f011f9703cccf7ef202cabb226cd06a4e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_01a4b41577b79d3ea3e8f491901241f26153bf25.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_41e8da216152d1384ffad4f2f0a77318a562c929.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_a1865f688a49f4279cca0bf3561181bb39e17de8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_23990d5c31e493c8e48d512082029f1dc7573743.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_765c47d706f9f35f7ccf697c4e490b0bb8db3b1c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_6d29a9bf796108c4cb3bc975ba6b367a897d9a98.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fatin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/Users/fhaque/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_95c9306ae3dea1cea9c4230b6904cb2cbb31c8fe.jar" />
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c8049661fd49afcfc285d3bab40f654f3cc15bc7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_92666a4515c819602d3cbaf256381aef127d8120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bb5f5d320b952518838f2f2dd605cd2a4d079567.jar" />
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_63b43a73a4e6d9f55fdb79007970171f0ba2882f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fatin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_4cd4590ad486c9a927fad3bad151d5b41ba62d65.jar" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_89c4da1c4863d5cec497eef71eee07446cd67594.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fatin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jar="/Users/fhaque/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_ced1f691e20d8962712209bb25af3cfc27f7064e.jar" />
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_5103ffa7d7526f6cee2921e397398127f862d14c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/practicereactnative/react-native-navigation/unspecified/jars/classes.jar"
+        jar="/Users/fhaque/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_dd09d327f9e6c893a5af7b5360bb6fe47a7972f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_2b090dbcb24e8e4400148820b6ccba100ec64d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_0991569156ad032583ca215e743f442c7dd2b2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_e75f1d5951dda11dedf78f10736ff4fa88867c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_532a41803fd360339142b629adfec9dcbefb7a4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_8bb97a85daf6ff3ae9da6b8b2bc665cd29738f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_e360503298a9aeedda866c97f7224e4a64761d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_dd47b9166201c63b07b4c4f61e98be31505991c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_e0ac00c39793239d192a178bf440c0b01581e74d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_23e599cd644f7996bf83b298baf1b9aae459942f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_fd0321dfe36e6d5a070ff8e1abe0756f88bfb86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_51c5d12c566e2e0723304443a17efc00d4e66f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_37b87ab70f3169b9a4e397c40bb53ab13b96e50a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_737971a8b471ebe975bac9cc33d5ba202b5ab156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ace117c12c084138bf3b7e3980e17e17d2c0ef9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_d0fbe63ac83a9e0874aa405938d33d0a26a7cc37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_ff90ec738c394c0c0dd2ab353a6e1c6bbf00fc5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_dcac974bf861618fb87b67690b5a8afb3c57b9f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_699e0852321a490718e983153d035695ebe484ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_c6b9b7a91fa06fc43fca8cabdc43efc9ec05c878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6303de50eccf348bcb6ac2d049272c3dbda3da3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_f00325752d36dbd471ae815c5c263bc390cd9980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_40ecd09017534f0964de7e69ea5ad32cf1bbc8f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_90aee125d00c7ed0aaaa64ffbf6ba8928479a82f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_428862f0c8bae192ce0993d7e25bd3fdf56b48bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_2732c705f715eec79166bc25e18bef65eddd5d6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/practicereactnative/react-native-navigation/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="c2cc67884cc1c83a3aadf953fe195620a3a70539">
-        <dex dex="/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/pre-dexed/debug/practicereactnative-react-native-navigation-unspecified_11e52911e9ed114d49ccfb02947912ba67bbbb2b.jar" />
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/practicereactnative-react-native-navigation-unspecified_00fb70430e1f65da04627fc6c021512d724a2827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_5539fafa823f15359dfe835ea35d54e2751ad1d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_e034c3f8fc042467224608d7430983a230b7b56c.jar" />
     </item>
 
 </items>

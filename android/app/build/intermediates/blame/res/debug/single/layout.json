@@ -60,16 +60,16 @@
         "source": "/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/res/layout/bottom_navigation_small_item.xml"
     },
     {
-        "merged": "/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_menu_layout.xml"
+        "merged": "/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/fhaque/dev-learn/practice-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Users/fatin/dev/learning/practice-react-native/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
