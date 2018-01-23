@@ -9,6 +9,7 @@ interface Props {
   children?: React.Node,
 }
 
+// TODO: Rewrite so that the props.children is modified via recompose.
 export const FormComponent = ({
   handleSubmit = () => {},
   valid = false,

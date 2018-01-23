@@ -1,6 +1,6 @@
 /* @flow */
 import * as React from 'react';
-import { compose, withProps, renderComponent } from 'recompose';
+import { compose, mapProps, renderComponent } from 'recompose';
 import { Field } from 'redux-form';
 import { FormTextInputComponent } from './';
 
@@ -43,7 +43,7 @@ const WrappedFormTextInput = (props): React.Node => {
 
 export const FormTextInputContainer = compose(
   // TODO: add type for ownerProps
-  withProps((ownerProps) => ({
+  mapProps((ownerProps) => ({
     ...ownerProps,
     component: WrappedFormTextInput,
   }))
