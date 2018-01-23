@@ -1,12 +1,9 @@
 /* @flow */
 import * as React from 'react';
-import { connect } from 'react-redux';
 import { View, Text, TextInput, Button } from 'react-native';
 import { LocalForm } from 'react-redux-form';
 import { Control } from 'react-redux-form/native';
 
-
-const ConnectedButton = connect()(Button);
 
 class WrappedLocalForm extends React.Component {
   handleSubmit(values) {
@@ -22,13 +19,8 @@ class WrappedLocalForm extends React.Component {
   render() {
     return (
       <LocalForm
-        model="user"
-        onUpdate={(form) => this.handleUpdate(form)}
-        onChange={(values) => this.handleChange(values)}
-        onSubmit={(values) => this.handleSubmit(values)}
       >
-        <Control.TextInput model="user.name" />
-        
+        {/* <Control.TextInput model="user.name" /> */}
       </LocalForm>
     );
   }
@@ -37,5 +29,6 @@ class WrappedLocalForm extends React.Component {
 export const UserFormComponent = (): React.Node  => (
   <View>
     <Text>User Form</Text>
+    <WrappedLocalForm />
   </View>
 );
