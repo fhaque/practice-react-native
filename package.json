@@ -19,6 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "ramda": "^0.25.0",
     "react": "16.0.0",
     "react-native": "0.50.3",
     "react-native-navigation": "^1.1.343",

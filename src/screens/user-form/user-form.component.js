@@ -1,47 +1,22 @@
 /* @flow */
 import * as React from 'react';
-import { View, Text } from 'react-native';
-import { compose, mapProps } from 'recompose';
+import { View, Text, TextInput, Button } from 'react-native';
+import { compose, withProps } from 'recompose';
+import { Field, reduxForm, reducer as reduxFormReducer } from 'redux-form';
+import { Provider } from 'react-redux';
+import { createStore, combineReducers } from 'redux';
 
-import { FormContainer, FormTextInputContainer, FormSubmitButtonContainer, FormTextInputComponent } from './components';
+import { RegistrationForm } from './form';
 
-// TODO: find out why adding the validate prop causes depth exceeded error
-const PhoneInput = compose(
-  mapProps((ownerProps) => ({
-    ...ownerProps,
-    format: (value, name) => {
-      const strVal = value ? value.toString() : '';
-      return ( strVal.substr(0,3) + '-' + strVal.substr(3, 3) + '-' + strVal.substr(6) ).replace(/-+$/, "");
-    },
+const rootReducer = combineReducers({ form: reduxFormReducer });
 
-    parse: (value, name) => { 
-      return value ? Number(value.replace(/\D/g,'').substr(0,10)) : undefined;
-    },
-    validate:[ (value) => { 
-      return (value && value.toString().length === 10) ? undefined : 'Need 10 digits'; 
-    },],
-    
-    
-  }))
-)(FormTextInputContainer);
+const store = createStore(rootReducer);
 
 export const UserFormComponent = (): React.Node  => (
-  <View>
-    <FormContainer onSubmit={(values, dispatch, props) => console.log('Form Submit', values)}>
-      <Text>User Form</Text>
-      <FormTextInputContainer name="name"/>
-      <FormTextInputContainer 
-        name="phone"
-        format={(value, name) => {
-          const strVal = value ? value.toString() : '';
-          return ( strVal.substr(0,3) + '-' + strVal.substr(3, 3) + '-' + strVal.substr(6) ).replace(/-+$/, "");
-        }}
-        parse={ (value, name) => value ? Number(value.replace(/\D/g,'').substr(0,10)) : undefined }
-        validate={[(value) => (value && value.toString().length === 10) ? undefined : 'Need 10 digits']}
-      />
-
-      {/* <PhoneInput name="phone" /> */}
-      <FormSubmitButtonContainer title="Submit" name="submit" />
-    </FormContainer>
-  </View>
+  <Provider store={store}>
+    <View>
+      <Text>Please register below.</Text>
+      <RegistrationForm />
+    </View>
+  </Provider>
 );
